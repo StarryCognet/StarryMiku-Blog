@@ -208,6 +208,13 @@ export default defineConfig({
 					"src/scripts/swup-manager.ts",
 				],
 			},
+			// 启用 HMR（热模块替换）
+			hmr: true,
+			// 监听文件变化
+			watch: {
+				usePolling: false,
+				interval: 100,
+			},
 		},
 		build: {
 			// 静态资源处理优化，防止小图片转 base64 导致 HTML 体积过大
