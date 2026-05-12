@@ -25,7 +25,7 @@ const SITE_LANG = "zh_CN"; // 语言代码，例如：'en', 'zh_CN', 'ja' 等。
 const SITE_TIMEZONE = 8; //设置你的网站时区 from -12 to 12 default in UTC+8
 export const siteConfig: SiteConfig = {
 	title: "StarryMiku",
-	subtitle: "我们都有自己的一片星空,未必璀璨,只要抬头,它便在那里",
+	subtitle: "未来の星",
 	siteURL: "https://blog.starrymiku.com/", // 请替换为你的站点URL，以斜杠结尾
 	siteStartDate: "2026-05-12", // 站点开始运行日期，用于站点统计组件计算运行天数
 
@@ -59,7 +59,7 @@ export const siteConfig: SiteConfig = {
 		// 顶栏标题图标路径，默认使用 public/assets/home/home.webp
 		icon: "assets/home/home.webp",
 		// 网站Logo图片路径
-		logo: "assets/home/default-logo.webp",
+		logo: "assets/home/home.webp",
 	},
 
 	// 页面自动缩放配置
