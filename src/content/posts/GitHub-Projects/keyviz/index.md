@@ -3,7 +3,7 @@ title: Keyviz - 让你的键盘操作可视化，录屏演示神器
 published: 2026-03-15
 updated: 2026-05-13
 description: '介绍Keyviz这款跨平台实时按键可视化工具，支持Windows、macOS和Linux，可在屏幕上显示按下的按键，适合录屏教学和演示'
-image: './cover.webp'
+image: './cover.jpg'
 tags: [GitHub项目推荐, GitHub, 软件, 工具, 录屏, 教学]
 category: 'GitHub项目推荐'
 draft: false 
