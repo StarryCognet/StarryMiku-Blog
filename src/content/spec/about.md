@@ -1,5 +1,5 @@
 
-This website is built with the **Astro** framework using the [Mizuki](https://github.com/LyraVoid/Mizuki) theme.
+本网站基于 **Astro** 框架，采用 [Mizuki](https://github.com/LyraVoid/Mizuki) 主题搭建。
 
 ::github{repo="LyraVoid/Mizuki"}
 
@@ -24,12 +24,13 @@ This website is built with the **Astro** framework using the [Mizuki](https://gi
 > **特别说明**  
 >
 > + 暂时**不接任何广告**，保持干净阅读体验。  
-> + 服务器由**京东云主机**提供，虽然小但稳定运行中。  
+> + 网站由**CloudFlare**部署。  
 > + 更新可能不快，但每一篇都用心写。
 >
 
 ## 找到我
 + 邮箱：starrycognet@qq.com  
++ QQ：[3398377037](https://qm.qq.com/q/J3mfvCYZge)
 + B站：[https://space.bilibili.com/593933246](https://space.bilibili.com/593933246)  
 + GitHub：[https://github.com/StarryCognet](https://github.com/StarryCognet)  
 + X (Twitter)：[https://x.com/StarryCognet](https://x.com/StarryCognet)
