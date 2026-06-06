@@ -6,6 +6,7 @@ description: 'Folder-Ico 是一个社区驱动的 Windows 文件夹图标库，�
 tags: [GitHub项目推荐, GitHub, 软件, 工具, Windows, 美化]
 category: 'GitHub项目推荐'
 draft: false 
+image: './folder11-cover.png'
 ---
 
 Windows 11 的界面很漂亮，但系统文件夹图标来来回回就那几个。尤其是程序目录，全是千篇一律的默认文件夹，找起来全靠认名字。
