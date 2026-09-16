@@ -84,6 +84,14 @@ export const friendsData: FriendItem[] = [
 		siteurl: "https://atoolkit.starrymiku.com",
 		tags: ["我的站点"],
 	},
+	{
+		id: 10,
+		title: "云泽の小屋",
+		imgurl: "https://zeyun.org/favicon/Happy_Mac.PNG",
+		desc: "记录技术学习、日常生活和一些折腾过程的小站",
+		siteurl: "https://zeyun.org/",
+		tags: ["朋友"],
+	},
 ];
 
 // 获取所有友情链接数据
